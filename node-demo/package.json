@@ -1,0 +1,17 @@
+{
+  "name": "upload-demo",
+  "version": "1.0.0",
+  "description": "a qcloud demo for upload",
+  "main": "index.js",
+  "scripts": {
+    "upload": "node index.js"
+  },
+  "keywords": [
+    "qcloud"
+  ],
+  "author": "zhangyingye",
+  "license": "ISC",
+  "devDependencies": {
+    "qcloud-upload": "^1.2.0"
+  }
+}

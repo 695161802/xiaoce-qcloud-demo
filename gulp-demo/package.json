@@ -1,0 +1,24 @@
+{
+  "name": "upload-demo",
+  "version": "1.0.0",
+  "description": "a qcloud demo for upload",
+  "main": "index.js",
+  "scripts": {
+    "upload": "gulp upload"
+  },
+  "keywords": [
+    "qcloud"
+  ],
+  "author": "zhangyingye",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-load-plugins": "^1.5.0",
+    "gulp-logger": "^0.0.2",
+    "gulp-newer": "^1.4.0",
+    "gulp-rev": "^8.1.1",
+    "gulp-rev-collector": "^1.3.1",
+    "gulp-upload-qcloud": "^1.2.0"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "fis3-demo",
+  "version": "1.0.0",
+  "description": "a qcloud demo for fis3",
+  "main": "index.js",
+  "scripts": {
+    "upload": "./node_modules/.bin/fis3 release"
+  },
+  "keywords": [
+    "qcloud"
+  ],
+  "dependencies": {
+    "fis3": "^3.4.26",
+    "fis3-deploy-qcloud-latest": "^0.1.0"
+  },
+  "author": "binnng",
+  "license": "ISC",
+  "devDependencies": {
+  }
+}
